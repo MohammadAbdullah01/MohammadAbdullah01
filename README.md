@@ -2,7 +2,7 @@
 
 
 - 🔭 I’m currently working on Front End Web Development
-- 🌱 I’m currently learning NextJs
+- 🌱 I’m currently learning Typescript & NextJs
 - 💬 Ask me about any solution about Front End Development
 - 📫 Reach me through Twitter: [@MhmdAbdullah01](https://twitter.com/MhmdAbdullah01), Linkedin: [mohammad-abdullah-20754322a](https://www.linkedin.com/in/mohammad-abdullah-20754322a/)
 - 😄 Pronouns: He/His
